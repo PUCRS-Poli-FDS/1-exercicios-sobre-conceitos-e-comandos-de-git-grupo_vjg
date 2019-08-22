@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 olá
+=======
+"eai"
+>>>>>>> cebf6d4d4638bac9e7661c045e6034f92d54bc58
+
+teste3
